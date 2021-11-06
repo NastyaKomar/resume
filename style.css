@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(73, 66, 66);
+    position: relative;
+    margin: auto 0;
+}
+
+.cont {
+    position: absolute;
+    width: 39.4em;
+    height: 60.5em;
+    left: 10px;
+    background-color: black;
+    border-radius: 1em;
+}
+
+img {
+    position: absolute;
+    left: 19.5em;
+    top: 36em;
+}
+
+.name {
+    color: blanchedalmond;
+    font-size: 1.7em;
+    font-family: 'Times New Roman', Times, serif;
+   padding:  1em;
+   
+}
+.inf{
+ 
+ height: 5em;
+    color: white;
+    padding: 1em;
+
+
+}
+
+.ed {
+    position: flex;
+    color: rgb(30, 139, 30);
+    left: 1.5em;
+    top: 5em;
+}
+
+.one {
+    color: white;
+    margin-bottom: 3em;
+}
+
+.left {
+   
+    height: 10em;
+    width: 65%;
+}
+
+.right {
+    height: 10em;
+    width: 35%;
+}
+
+.header {
+    height: 7em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.body {
+    display: flex;
+    align-items: flex-start;
+    padding-left: 1.5em;
+}
